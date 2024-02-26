@@ -1,1 +1,1 @@
-# movement-cnn
+# celeba-cnn
